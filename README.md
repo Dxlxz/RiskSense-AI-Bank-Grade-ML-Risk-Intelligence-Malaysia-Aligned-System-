@@ -211,10 +211,3 @@ This is a **reference implementation** using publicly available proxy data (Lend
 ## 📄 License
 
 MIT License - See [LICENSE](LICENSE) for details.
-
----
-
-## 👤 Author
-
-**Your Name**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourprofile)
