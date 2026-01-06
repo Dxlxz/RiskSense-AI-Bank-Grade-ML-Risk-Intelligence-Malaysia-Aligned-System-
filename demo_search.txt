@@ -1,0 +1,20 @@
+notebooks\risksense_demo.html:7522:<h3 id="Document-Purpose">Document Purpose<a class="anchor-link" href="#Document-Purpose">¶</a></h3><p>This technical demonstration serves as both:</p>
+notebooks\risksense_demo.html:7738:<h3 id="1.1-Data-Loading">1.1 Data Loading<a class="anchor-link" href="#1.1-Data-Loading">¶</a></h3><p>For demonstration purposes, we load a random sample of 50,000 records from the full dataset. This sampling approach:</p>
+notebooks\risksense_demo.html:8318:<span class="c1"># Pre-trained models are loaded here for demonstration efficiency.</span>
+notebooks\risksense_demo.html:8874:<h3 id="4.1-Demo:-Rules-Application">4.1 Demo: Rules Application<a class="anchor-link" href="#4.1-Demo:-Rules-Application">¶</a></h3><p>The following demonstration shows how the rules engine processes five sample applications with varying characteristics:</p>
+notebooks\risksense_demo.html:8894:<span class="c1"># DEMONSTRATION: Rules Engine in Action</span>
+notebooks\risksense_demo.html:8956:<span class="nb">print</span><span class="p">(</span><span class="s2">"RULES ENGINE DEMONSTRATION"</span><span class="p">)</span>
+notebooks\risksense_demo.html:9003:RULES ENGINE DEMONSTRATION
+notebooks\risksense_demo.html:9350:<span class="c1"># scoring periods. For demonstration, we simulate this using data splits.</span>
+notebooks\risksense_demo.html:9698:<span class="nb">print</span><span class="p">(</span><span class="s2">"RISKSENSE AI - DEMONSTRATION COMPLETE"</span><span class="p">)</span>
+notebooks\risksense_demo.html:9738:RISKSENSE AI - DEMONSTRATION COMPLETE
+notebooks\risksense_demo.ipynb:19:    "This technical demonstration serves as both:\n",
+notebooks\risksense_demo.ipynb:182:    "For demonstration purposes, we load a random sample of 50,000 records from the full dataset. This sampling approach:\n",
+notebooks\risksense_demo.ipynb:742:    "# Pre-trained models are loaded here for demonstration efficiency.\n",
+notebooks\risksense_demo.ipynb:1214:    "The following demonstration shows how the rules engine processes five sample applications with varying characteristics:\n",
+notebooks\risksense_demo.ipynb:1233:      "RULES ENGINE DEMONSTRATION\n",
+notebooks\risksense_demo.ipynb:1256:    "# DEMONSTRATION: Rules Engine in Action\n",
+notebooks\risksense_demo.ipynb:1318:    "print(\"RULES ENGINE DEMONSTRATION\")\n",
+notebooks\risksense_demo.ipynb:1690:    "# scoring periods. For demonstration, we simulate this using data splits.\n",
+notebooks\risksense_demo.ipynb:1928:      "RISKSENSE AI - DEMONSTRATION COMPLETE\n",
+notebooks\risksense_demo.ipynb:1963:    "print(\"RISKSENSE AI - DEMONSTRATION COMPLETE\")\n",

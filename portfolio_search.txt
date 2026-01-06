@@ -1,0 +1,9 @@
+DOC\1_Product_Requirements_Document.md:28:Retail credit portfolios face three practical issues:
+DOC\1_Product_Requirements_Document.md:62:| Portfolio Risk Analyst | Portfolio-level distributions, migration, and early-warning alerts |
+DOC\1_Product_Requirements_Document.md:90:- global drivers (portfolio-level feature importance)
+DOC\2_Technical_Architecture_Document.md:33:- a simple dashboard (Streamlit) to view portfolio summaries
+DOC\3_Module_Design_Specification.md:107:- Portfolio-level early warning report
+DOC\4_Model_Validation_Governance.md:38:In a real bank, PD models are typically high materiality because they influence underwriting and portfolio management.
+DOC\5_Rule_Document.md:68:- Real cutoffs depend on product, strategy, and portfolio performance.
+notebooks\risksense_demo.html:7597:<p><strong>Note on Default Rate</strong>: A 21.2% default rate is higher than typical prime lending portfolios (which may see 2-5% defaults). This reflects Lending Club's focus on near-prime and subprime borrowers, making it an excellent dataset for developing robust risk models.</p>
+notebooks\risksense_demo.ipynb:49:    "**Note on Default Rate**: A 21.2% default rate is higher than typical prime lending portfolios (which may see 2-5% defaults). This reflects Lending Club's focus on near-prime and subprime borrowers, making it an excellent dataset for developing robust risk models."
